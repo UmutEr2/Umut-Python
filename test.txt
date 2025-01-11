@@ -1,0 +1,6 @@
+Kırmızı
+Mavi
+Yeşil
+Sarı
+Mor
+Beyaz
